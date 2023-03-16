@@ -1,6 +1,8 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
+
 **marconaveni/marconaveni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<figure><embed src="https://wakatime.com/share/@marconaveni/ed0a7223-91f5-40d6-837e-58b5c65505d1.svg"></embed></figure>
+<a href="https://wakatime.com"><img width="48%" src="https://wakatime.com/share/@marconaveni/6d58c3e7-36f7-45d6-a257-aa425d2f9628.png" /></a>
+<a href="https://wakatime.com"><img width="48%" src="https://wakatime.com/share/@marconaveni/4988434f-4d16-4062-be26-c7972564fef3.png" /></a>
