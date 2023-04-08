@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/23699847/230696852-2a2745d0-b5cf-425c-9288-136e8a3e2453.png)
 
 <!--
 ### Hi there 👋
@@ -17,5 +18,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://wakatime.com"><img width="48%" src="https://wakatime.com/share/@marconaveni/6d58c3e7-36f7-45d6-a257-aa425d2f9628.png" /></a>
-<a href="https://wakatime.com"><img width="48%" src="https://wakatime.com/share/@marconaveni/4988434f-4d16-4062-be26-c7972564fef3.png" /></a>
+
+[![wakatime](https://wakatime.com/badge/user/9ecf993c-278c-41e6-9f0c-0614dfe26c9c.svg)](https://wakatime.com/@9ecf993c-278c-41e6-9f0c-0614dfe26c9c)
+
+
+<div align=center>
+<img height=300 width=500 src="https://github-readme-stats.vercel.app/api?username=marconaveni&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_title=false" alt="Marco Language stats" /></a><img height=300 width=306 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marconaveni&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide=,batchfile,java,html,css&hide_title=false" alt="Marco Language stats" /></a>
+</div>
+
+teste
+
+
+
+
