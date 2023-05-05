@@ -44,8 +44,9 @@ Here are some ideas to get you started:
 
 <img height=300 width=500 src="https://github-readme-stats.vercel.app/api?username=marconaveni&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_title=false" alt="Marco Language stats" /></a><img height=300 width=306 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marconaveni&count_private=true&theme=tokyonight&bg_color=00000000&hide=,batchfile,java,html,css&hide_title=false" alt="Marco Language stats" /></a>
 
+<!--
 [![Marco wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marconaveni&theme=tokyonight&bg_color=00000000&hide=,batchfile,java,html,css,java,other,binary,python,objective-c,git+config,text,txt,ini)](#)
-
+-->
 [![wakatime](https://wakatime.com/badge/user/9ecf993c-278c-41e6-9f0c-0614dfe26c9c.svg)](https://wakatime.com/@9ecf993c-278c-41e6-9f0c-0614dfe26c9c)
 
 
