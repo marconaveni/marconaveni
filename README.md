@@ -1,22 +1,23 @@
-![banner](https://user-images.githubusercontent.com/23699847/230696852-2a2745d0-b5cf-425c-9288-136e8a3e2453.png)
 
-<!--
+
+
 ### Hi there 👋
 
+My name is Marco and I create things! On my GitHub, you will find some projects I have been working on over the past few years. 😄
 
-**marconaveni/marconaveni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Classic Launcher] (https://github.com/marconaveni/ClassicLauncher)
+- 🌱 I’m currently learning new things every day! 
+- 👯 I’m looking to collaborate on any interesting project!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![banner](https://user-images.githubusercontent.com/23699847/230696852-2a2745d0-b5cf-425c-9288-136e8a3e2453.png)
 
 <div align=center>
 
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
 
 
 </div>
-
+-->
 
 
 
